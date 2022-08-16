@@ -1,9 +1,9 @@
 ## Welcome to the profile of Rafael Molnar 😁
 
  <div>
-   <a href="https://github.com/RafaelMolnar">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMolnar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMolnar&layout=compact&langs_count=6&theme=react"/>
+   <a href="https://github.com/rafaelmolnar">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmolnar&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmolnar&layout=compact&langs_count=6&theme=react"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,8 +21,8 @@
 
   <a href="https://instagram.com/rafaelmolnarrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelmolnar.r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelmolnar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://https://www.linkedin.com/in/rafael-molnar-rocha-856002247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RafaelMolnar/RafaelMolnar/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaelmolnar/rafaelmolnar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
